@@ -8,3 +8,5 @@
 Utilizando técnicas de modelamento numérico, pretende-se determinar as pressões
 nos blocos da malha através da solução da equação de Poisson, que representa o fluxo
 de um fluido no meio poroso em regime permanente em um reservatório de petróleo.
+
+Os arquivos encontram-se na pasta [src](https://github.com/bismarckjunior/TMN/tree/master/src).
